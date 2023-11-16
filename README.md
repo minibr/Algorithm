@@ -1,2 +1,2 @@
 # Algorithm
-Study of Algorithm / DataStructure / DataBase
+Study of Algorithm/DataStructure
